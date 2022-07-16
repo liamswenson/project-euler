@@ -17,7 +17,7 @@ fn main() {
                 }
             }
 
-            prime = y;
+            prime_factor = y;
             break;
         }
     }
